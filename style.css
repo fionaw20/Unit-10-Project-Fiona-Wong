@@ -1,0 +1,40 @@
+/* Background Pattern 
+Taken From https://projects.verou.me/css3patterns/ */
+
+body{
+
+  background:  #be78ff  !important;
+  background-size: 100px 100px !important; 
+
+
+}
+
+h1{
+  background-color: #ff85ce ;
+  color: #ffffff  !important;
+}
+
+h2, button{
+color: #000000  !important;
+  font-weight: bold !important;
+ 
+}
+
+.nav-link{
+  background-color: white !important;
+}
+
+
+#myCanvas{
+  border: 5px solid #9c9c9c  ;
+  border-radius: 30px;
+
+}
+a{
+  color: #ff85ce   !important;;
+}
+
+.accordion{
+  width: 600px;
+  margin: auto;
+}
